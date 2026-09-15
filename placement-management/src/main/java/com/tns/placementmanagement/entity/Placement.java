@@ -1,3 +1,4 @@
+
 package com.tns.placementmanagement.entity;
 
 import jakarta.persistence.*;
