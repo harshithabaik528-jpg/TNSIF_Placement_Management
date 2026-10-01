@@ -1,0 +1,11 @@
+com\tns\placementmanagement\PlacementManagementApplication.class
+com\tns\placementmanagement\service\CollegeServiceImpl.class
+com\tns\placementmanagement\entity\College.class
+com\tns\placementmanagement\service\PlacementServiceImpl.class
+com\tns\placementmanagement\service\IPlacementService.class
+com\tns\placementmanagement\controller\CollegeController.class
+com\tns\placementmanagement\controller\PlacementController.class
+com\tns\placementmanagement\repository\PlacementRepository.class
+com\tns\placementmanagement\entity\Placement.class
+com\tns\placementmanagement\service\ICollegeService.class
+com\tns\placementmanagement\repository\CollegeRepository.class
